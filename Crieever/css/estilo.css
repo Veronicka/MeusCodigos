@@ -1,0 +1,43 @@
+body{
+	background-color: rgb(245, 176, 79);
+}
+
+#footer{
+	padding: 10px;
+}
+header{
+	margin-top: 20px;
+}
+#top{
+	margin-top: 40px;
+	margin-left: 30px;
+	font-size: 40px;
+	margin-bottom: 40px !important;
+}
+
+.span5{
+	margin-left: 60px !important;
+}
+#logo{
+	display: block; 
+	margin-left: 30px;
+}
+.meio{
+	padding-right: 50px !important;
+}
+
+.centro{
+	margin-left: 124px !important;
+}
+
+.centro2{
+	margin-left: 200px !important;
+}
+#top2{
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	font-size: 40px;
+	padding-right: 600px;
+
+}
